@@ -21,3 +21,9 @@ A Test Project using Selenium Webdriver coded in Java language using Maven depen
 > Developed functions in Page Factory pattern for ease in maintenance.
 
 > Test results can be viewed in Extent(spark) report.
+
+## Further improvements to consider:
+
+> Can include Tags and Hooks in case of multiple features/scenarios.
+
+> Can customise the Extent(spark) report according to our project needs.
